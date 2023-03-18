@@ -1,8 +1,4 @@
 #/usr/bin/env python3
-'''
-Author: Double Sine
-License: GPLv3
-'''
 import os, sys, zipfile
 
 VariantBase64Table = 'ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/='

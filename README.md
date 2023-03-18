@@ -18,17 +18,13 @@ Usage:
 EXAMPLE:
 
 ```
-PS C:\Users\DoubleSine\Github\MobaXterm-Keygen> .\MobaXterm-Keygen.py "DoubleSine" 10.9
+.\MobaXterm-Keygen.py "Name" 10.9
 [*] Success!
-[*] File generated: C:\Users\DoubleSine\Github\MobaXterm-Keygen\Custom.mxtpro
+[*] File generated: Custom.mxtpro
 [*] Please move or copy the newly-generated file to MobaXterm's installation path.
 ```
 
 Then copy `Custom.mxtpro` to `C:\Program Files (x86)\Mobatek\MobaXterm`.
-
-## Screenshot
-
-![](pic0.png)
 
 ## Postscript
 
